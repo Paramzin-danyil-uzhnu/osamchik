@@ -1,0 +1,203 @@
+[
+    {
+      "bookId": 701,
+      "title": "Тіні забутих предків",
+      "author": "Михайло Коцюбинський",
+      "genre": "Класика",
+      "publicationYear": 1911,
+      "language": "Українська",
+      "available": true,
+      "description": "Повість про трагічну любов Івана та Марічки на тлі гуцульських традицій."
+    },
+    {
+      "bookId": 702,
+      "title": "Хіба ревуть воли, як ясла повні?",
+      "author": "Панас Мирний",
+      "genre": "Роман",
+      "publicationYear": 1880,
+      "language": "Українська",
+      "available": false,
+      "description": "Соціально-психологічний роман про життя українського села."
+    },
+    {
+      "bookId": 703,
+      "title": "Кобзар",
+      "author": "Тарас Шевченко",
+      "genre": "Поезія",
+      "publicationYear": 1840,
+      "language": "Українська",
+      "available": true,
+      "description": "Збірка поезій, що стали символом української літератури."
+    },
+    {
+      "bookId": 704,
+      "title": "Майстер і Маргарита",
+      "author": "Михайло Булгаков",
+      "genre": "Фантастика",
+      "publicationYear": 1966,
+      "language": "Російська",
+      "available": true,
+      "description": "Роман про відвідини диявола Москви 1930-х років."
+    },
+    {
+      "bookId": 705,
+      "title": "Сто років самотності",
+      "author": "Габріель Гарсіа Маркес",
+      "genre": "Магічний реалізм",
+      "publicationYear": 1967,
+      "language": "Іспанська",
+      "available": false,
+      "description": "Сага про сім поколінь родини Буендіа в містечку Макондо."
+    },
+    {
+      "bookId": 706,
+      "title": "451 градус за Фаренгейтом",
+      "author": "Рей Бредбері",
+      "genre": "Наукова фантастика",
+      "publicationYear": 1953,
+      "language": "Англійська",
+      "available": true,
+      "description": "Антиутопічний роман про суспільство, де книги заборонені."
+    },
+    {
+      "bookId": 707,
+      "title": "Над прірвою у житі",
+      "author": "Джером Девід Селінджер",
+      "genre": "Роман",
+      "publicationYear": 1951,
+      "language": "Англійська",
+      "available": true,
+      "description": "Історія підлітка Голдена Колфілда та його пошук сенсу життя."
+    },
+    {
+      "bookId": 708,
+      "title": "Війна і мир",
+      "author": "Лев Толстой",
+      "genre": "Історичний роман",
+      "publicationYear": 1869,
+      "language": "Російська",
+      "available": true,
+      "description": "Епопея про російське суспільство під час Наполеонівських воєн."
+    },
+    {
+      "bookId": 709,
+      "title": "Маленький принц",
+      "author": "Антуан де Сент-Екзюпері",
+      "genre": "Філософська казка",
+      "publicationYear": 1943,
+      "language": "Французька",
+      "available": true,
+      "description": "Казка про дитину з іншої планети та його подорожі."
+    },
+    {
+      "bookId": 710,
+      "title": "Алхімік",
+      "author": "Пауло Коельо",
+      "genre": "Пригодницький роман",
+      "publicationYear": 1988,
+      "language": "Португальська",
+      "available": true,
+      "description": "Притча про пошук своєї долі та здійснення мрій."
+    },
+    {
+      "bookId": 711,
+      "title": "1984",
+      "author": "Джордж Орвелл",
+      "genre": "Антиутопія",
+      "publicationYear": 1949,
+      "language": "Англійська",
+      "available": false,
+      "description": "Роман про тоталітарне суспільство та контроль над думками."
+    },
+    {
+      "bookId": 712,
+      "title": "Перетворення",
+      "author": "Франц Кафка",
+      "genre": "Екзистенціалізм",
+      "publicationYear": 1915,
+      "language": "Німецька",
+      "available": true,
+      "description": "Повість про чоловіка, який прокидається комахою."
+    },
+    {
+      "bookId": 713,
+      "title": "Анна Кареніна",
+      "author": "Лев Толстой",
+      "genre": "Роман",
+      "publicationYear": 1877,
+      "language": "Російська",
+      "available": true,
+      "description": "Трагічна історія кохання та суспільних норм."
+    },
+    {
+      "bookId": 714,
+      "title": "Ловець у житі",
+      "author": "Джером Девід Селінджер",
+      "genre": "Роман",
+      "publicationYear": 1951,
+      "language": "Англійська",
+      "available": true,
+      "description": "Пошук власного 'я' в сучасному світі."
+    },
+    {
+      "bookId": 715,
+      "title": "Портрет Доріана Грея",
+      "author": "Оскар Уайльд",
+      "genre": "Готичний роман",
+      "publicationYear": 1890,
+      "language": "Англійська",
+      "available": false,
+      "description": "Історія про молодого чоловіка, чий портрет старіє замість нього."
+    },
+    {
+      "bookId": 716,
+      "title": "Гаррі Поттер і філософський камінь",
+      "author": "Дж. К. Ролінґ",
+      "genre": "Фентезі",
+      "publicationYear": 1997,
+      "language": "Англійська",
+      "available": true,
+      "description": "Початок пригод юного чарівника Гаррі Поттера."
+    },
+    {
+      "bookId": 717,
+      "title": "Преступление и наказание",
+      "author": "Федор Достоевский",
+      "genre": "Психологічний роман",
+      "publicationYear": 1866,
+      "language": "Російська",
+      "available": true,
+      "description": "Роздуми про мораль та відповідальність через призму злочину."
+    },
+    {
+      "bookId": 718,
+      "title": "Тріумфальна арка",
+      "author": "Еріх Марія Ремарк",
+      "genre": "Роман",
+      "publicationYear": 1945,
+      "language": "Німецька",
+      "available": true,
+      "description": "Історія лікаря-біженця в Парижі перед Другою світовою війною."
+    },
+    {
+      "bookId": 719,
+      "title": "Мобі Дік",
+      "author": "Герман Мелвілл",
+      "genre": "Пригодницький роман",
+      "publicationYear": 1851,
+      "language": "Англійська",
+      "available": true,
+      "description": "Подорож корабля в пошуках білого кита."
+    },
+    {
+      "bookId": 720,
+      "title": "На Західному фронті без змін",
+      "author": "Еріх Марія Ремарк",
+      "genre": "Антивоєнний роман",
+      "publicationYear": 1929,
+      "language": "Німецька",
+      "available": false,
+      "description": "Погляд на Першу світову війну очима молодого солдата."
+    }
+  ]
+  
