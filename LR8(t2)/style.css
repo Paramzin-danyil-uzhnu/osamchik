@@ -1,0 +1,53 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+    min-width: 1000px;
+    max-width: 1400px;
+    font-family: 'MyCustomFont', sans-serif;
+}
+
+header, footer {
+    border-top: 5px solid #a66;
+    border-bottom: 5px solid #a66;
+}
+
+h1 {
+    font-family: 'OtherFont', serif;
+    text-align: center;
+    font-size: 2em;
+    letter-spacing: 1px;
+}
+
+a {
+    text-decoration: underline;
+    color: #a66;
+}
+
+a:hover, a:focus {
+    text-decoration: none;
+}
+
+a::after {
+    content: url('external-link-52.png');
+    margin-left: 5px;
+}
+
+ul, ol {
+    padding: 0;
+    line-height: 1.6;
+}
+
+section h2, aside h2 {
+    font-size: 1.8em;
+    margin-top: 0;
+    padding-top: 20px;
+}
+
+/* Custom styles */
+footer p {
+    text-align: center;
+    font-size: 0.8em;
+}
